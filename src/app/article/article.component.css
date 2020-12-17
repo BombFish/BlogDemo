@@ -3,16 +3,3 @@
     padding-left: 15%;
     padding-right: 15%;
 }
-a {
-    cursor: pointer;
-    color: black;
-}
-.content {
-    color: grey;
-}
-.bottom {
-    color: grey;
-}
-hr {
-    border: 0.5px dashed grey;
-}

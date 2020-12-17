@@ -8,6 +8,7 @@ import { UserlistComponent } from './userlist/userlist.component';
 import { UploadarticleComponent } from './uploadarticle/uploadarticle.component';
 import { HeaderComponent } from './header/header.component';
 import { ArticleComponent } from './article/article.component';
+import { ArticleinfoComponent } from './articleinfo/articleinfo.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ArticleComponent } from './article/article.component';
     UserlistComponent,
     UploadarticleComponent,
     HeaderComponent,
-    ArticleComponent
+    ArticleComponent,
+    ArticleinfoComponent
   ],
   imports: [
     BrowserModule,
